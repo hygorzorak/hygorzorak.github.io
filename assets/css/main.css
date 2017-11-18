@@ -645,7 +645,8 @@ input, textarea {
 .introduction__content {
   color: #9e9e9e;
   font-size: 16px;
-  font-weight: 800
+  font-weight: 800;
+  text-align: center;
 }
 
 .introduction__content-el {
@@ -655,13 +656,19 @@ input, textarea {
 .introduction__content-el--name {
   -webkit-transform: translateX(-30px);
   transform: translateX(-30px);
-  opacity: 0
+  text-transform: lowercase;
+}
+
+.introduction__content-el--name a {
+  color: #9e9e9e;
+  text-decoration: none;
+  z-index: 1000;
 }
 
 .introduction__content-el--description {
   -webkit-transform: matrix(1.0110731102, 0, 0, 1.0110731102, 0, 0);
   transform: matrix(1.0110731102, 0, 0, 1.0110731102, 0, 0);
-  margin: 10px 0;
+  margin: 20px 0;
   color: #fff;
   font-size: 16vw;
   text-align: center;
@@ -673,7 +680,7 @@ input, textarea {
   -webkit-transform: translateX(30px);
   transform: translateX(30px);
   text-align: right;
-  opacity: 0
+  text-transform: lowercase;
 }
 
 .introduction__arrow {
