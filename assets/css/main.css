@@ -603,6 +603,27 @@ input, textarea {
     left: 60%;
     width: 60%;
   }
+  
+}
+
+@media (max-width: 400px) {
+  .introduction__content-el--name {
+    font-size: 0.7em;
+    
+  }
+  
+  .introduction__content-el--job {
+    font-size: 0.7em;
+  }
+  
+  .introduction__content-group {
+    justify-content: space-around;
+  }
+}
+
+.introduction__content-group {
+  display: flex;
+  justify-content: space-between
 }
 
 .scroll-lock {
