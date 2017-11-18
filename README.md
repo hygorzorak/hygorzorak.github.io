@@ -1,10 +1,4 @@
-# Presentation model
+# Talks
 
-## Author: Hygor Zorak
-### Contact: hygorzorak@gmail.com
-
-
-1. Run `npm install` to install all dependencies (including gulp).
-1. Run `gulp` to build this project.
-
-# Presentations:
+#### Author: _Hygor Zorak_
+#### Contact: _hygorzorak@gmail.com_
