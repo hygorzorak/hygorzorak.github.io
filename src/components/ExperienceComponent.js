@@ -38,7 +38,7 @@ export const ExperienceComponent = () => {
         <div className="col-md-6 col-sm-6 col-xs-12">
           <div className="resume-item">
             <h2>FullStack Developer</h2>
-            <span>2014 - 2017</span>
+            <span>2014 - 2017 | UNICESUMAR - MARINGA</span>
             <p>Worked with project planning, HTML, CSS, JS and PHP development, problems
               solving, Kankan and team lead.</p>
           </div>

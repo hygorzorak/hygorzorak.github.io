@@ -629,14 +629,14 @@ li {
 /*-----------------------------------------------------------------*/
 
 .about .intro ul.info {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   padding: 0;
   list-style: none;
 }
 
 .about .intro ul.info li {
   border-bottom: dashed 1px #DDD;
-  padding: 15px 0;
+  padding: 10px 0;
   font-family: "Roboto Slab", sans-serif;
   font-weight: 300;
   color: #0C0C0C;
@@ -664,7 +664,7 @@ li {
 }
 
 .about .skills .item .skill-info {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .about .skills .item .skill-info h3 {
@@ -1347,6 +1347,12 @@ li {
   .header .copyright {
       bottom: -18px;
       position: relative;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .about .skills .item .skill-info h3 {
+    font-size: 11px;
   }
 }
 
