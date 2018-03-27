@@ -18,7 +18,7 @@ export const ExperienceComponent = () => {
       </div>
 
       <div className="row">
-        <div className="col-md-6 col-sm-6 col-xs-12">
+        <div className="col-md-12 col-sm-12 col-xs-12">
           <div className="top-item resume-item">
             <h2>JavaScript Developer</h2>
             <span>2017 - 2018 | MATERA - MARINGA</span>
@@ -29,7 +29,7 @@ export const ExperienceComponent = () => {
           </div>
         </div>
 
-        <div className="col-md-6 col-sm-6 col-xs-12">
+        <div className="col-md-12 col-sm-12 col-xs-12">
           <div className="resume-item">
             <h2>FullStack Developer</h2>
             <span>2014 - 2017 | UNICESUMAR - MARINGA</span>
