@@ -20,7 +20,26 @@ export const ExperienceComponent = () => {
       <div className="row">
         <div className="col-md-12 col-sm-12 col-xs-12">
           <div className="top-item resume-item">
-            <h2>JavaScript Developer</h2>
+            <h2>Senior Frontend Developer</h2>
+            <span>2018 - | UNITEDHEALTH GROUP (OPTUM) - CURITIBA</span>
+            <p>
+              Worked with React, Redux, Webpack, Yarn, Git, Scrum/Kanban and
+              problems solving
+            </p>
+          </div>
+        </div>
+
+        <div className="col-md-12 col-sm-12 col-xs-12">
+          <div className="top-item resume-item">
+            <h2>Mid Frontend Developer</h2>
+            <span>2018 - 2018 | MJV - CURITIBA</span>
+            <p>Worked with Angular, Ionic, Scrum/Kanban and problems solving</p>
+          </div>
+        </div>
+
+        <div className="col-md-12 col-sm-12 col-xs-12">
+          <div className="top-item resume-item">
+            <h2>Junior Frontend Developer</h2>
             <span>2017 - 2018 | MATERA - MARINGA</span>
             <p>
               Worked with React/Redux, Angular, Ionic, Node, Server side
@@ -31,7 +50,7 @@ export const ExperienceComponent = () => {
 
         <div className="col-md-12 col-sm-12 col-xs-12">
           <div className="resume-item">
-            <h2>FullStack Developer</h2>
+            <h2>Junior FullStack Developer</h2>
             <span>2014 - 2017 | UNICESUMAR - MARINGA</span>
             <p>
               Worked with project planning, HTML, CSS, JS and PHP development,
