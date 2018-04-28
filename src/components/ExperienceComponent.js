@@ -28,17 +28,15 @@ export const ExperienceComponent = () => {
             </p>
           </div>
         </div>
-
         <div className="col-md-12 col-sm-12 col-xs-12">
-          <div className="top-item resume-item">
+          <div className="resume-item">
             <h2>Mid Frontend Developer</h2>
             <span>2018 - 2018 | MJV - CURITIBA</span>
             <p>Worked with Angular, Ionic, Scrum/Kanban and problems solving</p>
           </div>
         </div>
-
         <div className="col-md-12 col-sm-12 col-xs-12">
-          <div className="top-item resume-item">
+          <div className="resume-item">
             <h2>Junior Frontend Developer</h2>
             <span>2017 - 2018 | MATERA - MARINGA</span>
             <p>
@@ -47,7 +45,6 @@ export const ExperienceComponent = () => {
             </p>
           </div>
         </div>
-
         <div className="col-md-12 col-sm-12 col-xs-12">
           <div className="resume-item">
             <h2>Junior FullStack Developer</h2>
