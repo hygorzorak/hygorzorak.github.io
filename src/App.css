@@ -437,7 +437,6 @@ li {
 
 .main-content {
   width: 740px;
-  height: 100vh;
 }
 
 .main-content p {
@@ -457,6 +456,13 @@ li {
   background: #fff;
 }
 
+#welcome {
+  height: 100vh;
+}
+
+section#about h2 {
+  padding-top: 40px;
+}
 /* === Section Header === */
 
 .main-content section .section-header {
