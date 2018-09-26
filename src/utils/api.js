@@ -1,1 +1,0 @@
-export const API = "https://hygorzorak-hygorzorak.c9users.io/wp-json/wp/v2/"
